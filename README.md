@@ -1,6 +1,4 @@
 # Data-Exploration-and-Cleaning-on-Programming-Languages-Dataset
-# Programming Language Dataset
-
 ## Overview
 This dataset contains information about various programming languages, including their features, popularity, release dates, and other relevant attributes. The dataset is intended for exploration and analysis to gain insights into the programming language landscape.
 
